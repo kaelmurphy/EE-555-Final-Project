@@ -1,0 +1,35 @@
+.venv/
+venv/
+.env/
+
+------------------
+.vscode/
+
+------------------
+build/
+Code/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+------------------
+# Executables & libraries
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+# Object & intermediate files
+*.obj
+*.o
+*.lo
+*.ilk
+*.pdb
+*.ipdb
+*.iobj
+*.exp
+*.idb
+*.pch
