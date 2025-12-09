@@ -166,6 +166,30 @@ src\cabac.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Code.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Code.dir\src\cabac.cpp.s
 .PHONY : src\cabac.cpp.s
 
+src\cabac_tables.obj: src\cabac_tables.cpp.obj
+.PHONY : src\cabac_tables.obj
+
+# target to build an object file
+src\cabac_tables.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Code.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Code.dir\src\cabac_tables.cpp.obj
+.PHONY : src\cabac_tables.cpp.obj
+
+src\cabac_tables.i: src\cabac_tables.cpp.i
+.PHONY : src\cabac_tables.i
+
+# target to preprocess a source file
+src\cabac_tables.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Code.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Code.dir\src\cabac_tables.cpp.i
+.PHONY : src\cabac_tables.cpp.i
+
+src\cabac_tables.s: src\cabac_tables.cpp.s
+.PHONY : src\cabac_tables.s
+
+# target to generate assembly for a file
+src\cabac_tables.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Code.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Code.dir\src\cabac_tables.cpp.s
+.PHONY : src\cabac_tables.cpp.s
+
 src\main.obj: src\main.cpp.obj
 .PHONY : src\main.obj
 
@@ -229,6 +253,9 @@ help:
 	@echo ... src/cabac.obj
 	@echo ... src/cabac.i
 	@echo ... src/cabac.s
+	@echo ... src/cabac_tables.obj
+	@echo ... src/cabac_tables.i
+	@echo ... src/cabac_tables.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

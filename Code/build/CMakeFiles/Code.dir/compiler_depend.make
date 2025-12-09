@@ -88,10 +88,13 @@ CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual St
 CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\initializer_list"
 CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xpolymorphic_allocator.h"
 CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tuple"
-CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept"
+CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string"
 CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring"
 CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_string_view.hpp"
 CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd"
+CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cctype"
+CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\Code.dir\src\bitstream.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept"
 
 
 CMakeFiles\Code.dir\src\cabac.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac.cpp
@@ -182,11 +185,26 @@ CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio
 CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xpolymorphic_allocator.h"
 CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tuple"
 CMakeFiles\Code.dir\src\cabac.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\bitstream.hpp
-CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\array"
-CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept"
+CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string"
 CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring"
 CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_string_view.hpp"
 CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd"
+CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cctype"
+CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\array"
+CMakeFiles\Code.dir\src\cabac.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept"
+
+
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac_tables.cpp
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\cabac_tables.hpp
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstdint"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\sal.h"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\concurrencysal.h"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vadefs.h"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xkeycheck.h"
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdint.h"
 
 
 CMakeFiles\Code.dir\src\main.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\main.cpp
@@ -319,7 +337,11 @@ CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\
 CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_heap_algorithms.hpp"
 CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_minmax.hpp"
 CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xbit_ops.h"
+CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iomanip"
+CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xlocmon"
+CMakeFiles\Code.dir\src\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xloctime"
 CMakeFiles\Code.dir\src\main.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\cabac.hpp
+CMakeFiles\Code.dir\src\main.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\cabac_tables.hpp
 CMakeFiles\Code.dir\src\main.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\rans.hpp
 
 
@@ -410,6 +432,12 @@ CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\
 CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\initializer_list"
 CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xpolymorphic_allocator.h"
 CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tuple"
+CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\array"
+CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept"
+CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring"
+CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_string_view.hpp"
+CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd"
+CMakeFiles\Code.dir\src\rans.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numeric"
 
 
 
@@ -438,6 +466,8 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vadefs.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xloctime":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\concurrencysal.h":
 
@@ -474,6 +504,8 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tmmintrin.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdint.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iomanip":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstdlib":
 
@@ -567,6 +599,8 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\use_ansi.h":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xlocmon":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstddef":
@@ -597,6 +631,8 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tuple":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_threads_core.hpp":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring":
@@ -605,6 +641,10 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cctype":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h":
+
 C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac.cpp:
 
 C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\cabac.hpp:
@@ -612,6 +652,10 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_system_error_abi.hpp":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\array":
+
+C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac_tables.cpp:
+
+C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\cabac_tables.hpp:
 
 C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\main.cpp:
 
@@ -661,10 +705,6 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_xlocinfo_types.hpp":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cctype":
-
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h":
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ostream":
@@ -684,3 +724,5 @@ C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code
 C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\include\rans.hpp:
 
 C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\rans.cpp:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numeric":

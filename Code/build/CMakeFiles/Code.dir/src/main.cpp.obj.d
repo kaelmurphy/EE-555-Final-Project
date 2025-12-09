@@ -131,4 +131,5 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.3520
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/xlocmon
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/xloctime
 C:/Users/kmurp/Documents/School/3B/EE555/EE555_Project/EE-555-Final-Project/Code/include/cabac.hpp
+C:/Users/kmurp/Documents/School/3B/EE555/EE555_Project/EE-555-Final-Project/Code/include/cabac_tables.hpp
 C:/Users/kmurp/Documents/School/3B/EE555/EE555_Project/EE-555-Final-Project/Code/include/rans.hpp

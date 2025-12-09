@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/src/bitstream.cpp.obj.d"
   "CMakeFiles/Code.dir/src/cabac.cpp.obj"
   "CMakeFiles/Code.dir/src/cabac.cpp.obj.d"
+  "CMakeFiles/Code.dir/src/cabac_tables.cpp.obj"
+  "CMakeFiles/Code.dir/src/cabac_tables.cpp.obj.d"
   "CMakeFiles/Code.dir/src/main.cpp.obj"
   "CMakeFiles/Code.dir/src/main.cpp.obj.d"
   "CMakeFiles/Code.dir/src/rans.cpp.obj"

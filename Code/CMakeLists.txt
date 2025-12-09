@@ -8,6 +8,7 @@ add_executable(Code
     src/main.cpp
     src/bitstream.cpp
     src/cabac.cpp
+    src/cabac_tables.cpp
     src/rans.cpp
 )
 

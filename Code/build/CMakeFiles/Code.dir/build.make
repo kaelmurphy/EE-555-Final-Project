@@ -121,10 +121,30 @@ CMakeFiles\Code.dir\src\cabac.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Code.dir\src\cabac.cpp.s /c C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac.cpp
 <<
 
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: CMakeFiles\Code.dir\flags.make
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac_tables.cpp
+CMakeFiles\Code.dir\src\cabac_tables.cpp.obj: CMakeFiles\Code.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Code.dir/src/cabac_tables.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Code.dir\src\cabac_tables.cpp.obj.d --working-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Code.dir\src\cabac_tables.cpp.obj /FdCMakeFiles\Code.dir\ /FS -c C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac_tables.cpp
+<<
+
+CMakeFiles\Code.dir\src\cabac_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Code.dir/src/cabac_tables.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe > CMakeFiles\Code.dir\src\cabac_tables.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac_tables.cpp
+<<
+
+CMakeFiles\Code.dir\src\cabac_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Code.dir/src/cabac_tables.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Code.dir\src\cabac_tables.cpp.s /c C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\cabac_tables.cpp
+<<
+
 CMakeFiles\Code.dir\src\rans.cpp.obj: CMakeFiles\Code.dir\flags.make
 CMakeFiles\Code.dir\src\rans.cpp.obj: C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\rans.cpp
 CMakeFiles\Code.dir\src\rans.cpp.obj: CMakeFiles\Code.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Code.dir/src/rans.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Code.dir/src/rans.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Code.dir\src\rans.cpp.obj.d --working-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Code.dir\src\rans.cpp.obj /FdCMakeFiles\Code.dir\ /FS -c C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\src\rans.cpp
 <<
@@ -146,6 +166,7 @@ Code_OBJECTS = \
 "CMakeFiles\Code.dir\src\main.cpp.obj" \
 "CMakeFiles\Code.dir\src\bitstream.cpp.obj" \
 "CMakeFiles\Code.dir\src\cabac.cpp.obj" \
+"CMakeFiles\Code.dir\src\cabac_tables.cpp.obj" \
 "CMakeFiles\Code.dir\src\rans.cpp.obj"
 
 # External object files for target Code
@@ -154,10 +175,11 @@ Code_EXTERNAL_OBJECTS =
 Code.exe: CMakeFiles\Code.dir\src\main.cpp.obj
 Code.exe: CMakeFiles\Code.dir\src\bitstream.cpp.obj
 Code.exe: CMakeFiles\Code.dir\src\cabac.cpp.obj
+Code.exe: CMakeFiles\Code.dir\src\cabac_tables.cpp.obj
 Code.exe: CMakeFiles\Code.dir\src\rans.cpp.obj
 Code.exe: CMakeFiles\Code.dir\build.make
 Code.exe: CMakeFiles\Code.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Code.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Code.exe"
 	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\Code.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\10.0.26100.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\10.0.26100.0\x64\mt.exe --manifests -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\Code.dir\objects1.rsp @<<
  /out:Code.exe /implib:Code.lib /pdb:C:\Users\kmurp\Documents\School\3B\EE555\EE555_Project\EE-555-Final-Project\Code\build\Code.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
